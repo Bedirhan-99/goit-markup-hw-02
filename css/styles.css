@@ -1,0 +1,138 @@
+body{
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1,5;
+    background-color: #FFFFFF;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+}
+.topline{
+    background-color: #FFFFFF;
+}
+.topline ul{
+    display: flex;
+    gap: 40px;
+}
+.logo{
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: bold;
+    line-height: 1,16;
+}
+.hero-image{
+    background-color: #2E2F42;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+
+.title{
+    font-size: 56px;
+    font-weight: 700;
+    font-style: bold;
+    color: #FFFFFF;
+    line-height: 1,07;
+}
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    font-style: bold;
+    text-align: center;
+    line-height: 1,11;
+}
+h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1,2;
+}
+.menu-nav{
+    font-weight: 500;
+    line-height: inherit;  
+}
+.menu-nav ul{
+    display: flex;
+    gap: 40px;
+}
+.menu-nav a{
+    color: #2E2F42;
+}
+.menu-nav a:hover,
+.menu-nav a:focus{
+    color: #404BBF;
+}
+.address{
+    font-weight: 400;
+    line-height: inherit;
+}
+.address a{
+    color: #434455;
+}
+.address a:hover,
+.address a:focus{
+    color: #404BBF;
+}
+.address ul{
+    display: flex;
+    gap: 40px;
+}
+.our-team{
+    background-color: #F4F4FD;
+    align-items: center;    
+}
+.our-team ul{
+    display: flex;
+    gap: 40px;
+}
+.our-team li{
+    background-color: #FFFFFF;
+}
+button{
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: inherit;
+}
+button:hover,
+button:focus{
+    background-color: #404BBF;
+}
+.our-portfolio{
+    background-color: #E7E9FC;
+}
+.address:hover{
+    color: #404BBF;
+}
+.web{
+    color: #4D5AE5;
+}
+.studio{
+    color: #2E2F42;
+}
+.info ul{
+    display: flex;
+    gap: 40px;
+}
+.first-row{
+    display: flex;
+    gap: 40px;
+}
+.second-row{
+    display: flex;
+    gap: 40px;
+}
+.our-portfolio li{
+    background-color: #FFFFFF;
+}
+footer{
+    background-color: #2E2F42;
+    color: #F4F4FD
+}
+.studio2{
+    color: #F4F4FD;
+}
