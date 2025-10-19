@@ -19,7 +19,6 @@ a{
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    font-style: bold;
     line-height: 1,16;
 }
 .hero-image{
@@ -33,14 +32,12 @@ ul{
 .title{
     font-size: 56px;
     font-weight: 700;
-    font-style: bold;
     color: #FFFFFF;
     line-height: 1,07;
 }
 h2{
     font-size: 36px;
     font-weight: 700;
-    font-style: bold;
     text-align: center;
     line-height: 1,11;
 }
