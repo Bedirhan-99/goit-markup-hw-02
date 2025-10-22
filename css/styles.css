@@ -1,8 +1,8 @@
 body{
     font-family: Roboto, sans-serif;
     font-size: 16px;
-    line-height: 1,5;
-    background-color: #FFFFFF;
+    line-height: 1.5;
+    color: #2E2F42;
     font-weight: 400;
 }
 a{
@@ -16,10 +16,10 @@ a{
     gap: 40px;
 }
 .logo{
-    font-family: Raleway, sans-serif;
+    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,16;
+    line-height: 1.16;
 }
 .hero-image{
     background-color: #2E2F42;
@@ -33,18 +33,18 @@ ul{
     font-size: 56px;
     font-weight: 700;
     color: #FFFFFF;
-    line-height: 1,07;
+    line-height: 1.07;
 }
 h2{
     font-size: 36px;
     font-weight: 700;
     text-align: center;
-    line-height: 1,11;
+    line-height: 1.11;
 }
 h3{
     font-size: 20px;
     font-weight: 500;
-    line-height: 1,2;
+    line-height: 1.2;
 }
 .menu-nav{
     font-weight: 500;
@@ -62,7 +62,6 @@ h3{
     color: #404BBF;
 }
 .address{
-    font-weight: 400;
     line-height: inherit;
 }
 .address a{
